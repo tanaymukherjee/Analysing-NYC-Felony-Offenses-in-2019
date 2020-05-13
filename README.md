@@ -22,11 +22,15 @@ Owner: Allen
 Task 3: Principal Component Analysis
 Owner: Youran
 
-Task 4: FActor Analysis
+Task 4: Factor Analysis
 Owner: Tanay
 
-### Team Members
+### Team Members:
 1. Allen Wu
 2. Alyssa Ziping Wei
 3. Tanay Mukherjee
 4. Youran Zhu
+
+## Submission to:
+Prof. Yu Yue
+STA 9705
