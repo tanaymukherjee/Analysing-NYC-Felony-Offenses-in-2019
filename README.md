@@ -33,4 +33,3 @@ Owner: Tanay
 
 ## Submission to:
 Prof. Yu Yue
-STA 9705
