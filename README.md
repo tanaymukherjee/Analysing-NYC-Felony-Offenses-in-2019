@@ -1,5 +1,5 @@
 # Multivariate-Project for STA 9705
-## Analysing NYC Felonies in 2019
+## Analysing NYC Felony Offenses in 2019
 In this exercise we will apply many of the multivariate statistics techniques on NYC felony dataset for 2019 for all the boroughs and see if their any association between the features, and try to understand the data better using multivariate statistical methods
 
 This is a team project as part of STA 9705 course which is a core-requisite for students in Statistics department for Baruch College, City University of New York.
