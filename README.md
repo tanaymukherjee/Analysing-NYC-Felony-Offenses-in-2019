@@ -13,17 +13,13 @@ In our project, we choose data of seven major felony offenses of five boroughs o
 There are 77 observations with 8 variables including Precinct, reported incidents of Murder & Non Negl. Manslaughter, Rape, Robbery, Felony Assault, Grand Larceny and Grand Larceny of Motor Vehicle. We labeled boroughs as M= Manhattan, X = Bronx, K = Brooklyn, Q = Queens, S = Staten Island. Using this dataset, we conducted MAOVA analysis, Discriminant analysis, PCA and Factor analysis to evaluate the difference of five boroughs in terms of felony offenses.
 
 ### Distribution of work:
-Task 1: Multivariate hypothesis testing
-Owner: Alyssa
+| Owner | Task |
+| --- | --- |
+| Alyssa | MANOVA |
+| Allen | Discriminant Analysis |
+| Tanay | Factor Analysis |
+| Youran | PCA |
 
-Task 2: Discriminant Analysis
-Owner: Allen
-
-Task 3: Principal Component Analysis
-Owner: Youran
-
-Task 4: Factor Analysis
-Owner: Tanay
 
 ### Team Members:
 1. Allen Wu
